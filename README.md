@@ -1,5 +1,7 @@
 # dotsync
 
+> **Work in progress — not yet functional.** This project is in early development. Commands are stubbed but not fully implemented. Do not install expecting a working tool.
+
 Fleet-style dotfiles manager with push cascading and status dashboard.
 
 ## What makes it different
@@ -12,7 +14,7 @@ Fleet-style dotfiles manager with push cascading and status dashboard.
 ## Install
 
 ```bash
-pipx install dotsync
+pipx install dotsync-py
 ```
 
 ## Quick start
