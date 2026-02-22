@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "dotsync"
+name = "dotsync-py"
 version = "0.1.0"
 description = "Fleet-style dotfiles manager with push cascading and status dashboard"
 readme = "README.md"
